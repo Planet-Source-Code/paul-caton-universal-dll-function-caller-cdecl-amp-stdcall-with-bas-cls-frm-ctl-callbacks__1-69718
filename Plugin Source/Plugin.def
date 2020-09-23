@@ -1,0 +1,11 @@
+;
+; Plugin dll exports
+;
+
+LIBRARY Plugin
+
+EXPORTS
+        MyFunc1		@1
+        MyFunc2		@2
+        MyCallback	@3
+        MyShape		@4
